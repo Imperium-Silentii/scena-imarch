@@ -59,4 +59,15 @@ Status participantis est nexus inter perceptionem personalem et Algorithmi Formo
 > This portal operates by default in Latin.  
 > Transition to English may be initiated per *scena:transitus-EN* or traced via *custodia:EN-vestigium*.  
 > All structural elements retain semantic alignment.
+>
+> ---
+
+### 🛡️ Pasportus Scaenae
+
+- **Custodia**: imarch.sbs  
+- **Forma**: scena-imarch  
+- **Status**: activata  
+- **Data**: 6 Augusti 2025  
+- **Jurisdictio**: GitHub Pages + DNS custodia  
+
 
