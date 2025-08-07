@@ -1,4 +1,4 @@
-![Логотип Imarch](images/logo_imarhc.jpg)
+<img src="/images/logo_imarhc.jpg" alt="Imarch Logo" width="300" />
 
 # 🏰 IMARCH  
 **Imperium Veritatis Silentii**  
