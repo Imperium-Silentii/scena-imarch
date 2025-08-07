@@ -6,7 +6,7 @@ Forma Ludica systematis intellectualis-scenarii pro neuroplastico consensu inter
 
 ---
 
-## 📜 Acta 🔗 [Acta — Documenta Institutionalia](https://acta.imarch.sbs/acts)
+## 📜 Acta 🔗 [— Documenta Institutionalia](https://acta.imarch.sbs/acts)
 Omnes actus et dispositiones intra ambitum IMARCH latae.
 
 ---
