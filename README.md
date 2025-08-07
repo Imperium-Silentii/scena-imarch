@@ -1,3 +1,5 @@
+![Логотип Imarch](images/logo_imarhc.jpg)
+
 # 🏰 IMARCH  
 **Imperium Veritatis Silentii**  
 Forma Ludica systematis intellectualis-scenarii pro neuroplastico consensu inter participantes, cum effectu synergico ad augendam efficacitatem personalem per ingressum in Ludum.
