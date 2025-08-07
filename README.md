@@ -61,7 +61,8 @@ Status participantis est nexus inter perceptionem personalem et Algorithmi Formo
 > This portal operates by default in Latin.  
 > Transition to English may be initiated per *scena:transitus-EN* or traced via *custodia:EN-vestigium*.  
 > All structural elements retain semantic alignment.
->
+> [English Language Scene](https://imarch.sbs/lingua/en)
+
 > ---
 
 ### 🛡️ Pasportus Scaenae
