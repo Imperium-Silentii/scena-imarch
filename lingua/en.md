@@ -65,5 +65,6 @@ And participant status is the link between personal perception and the Formologi
 > The default language is Latin.  
 > Transition to English may be initiated via *scena:transitus
 
-> <a href="/lingua/la" class="lang-switch">Latin version</a>
+<a href="https://imarch.sbs/" class="lang-switch">Latin version</a>
+
 
