@@ -7,7 +7,7 @@ A ludic form of intellectual-scenario system for neuroplastic coordination among
 
 ---
 
-## 📜 Acta  
+## 📜 Acta [— Documenta Institutionalia](https://acta.imarch.sbs/acts) 
 All acts and provisions adopted within the framework of Imarch.
 
 ---
