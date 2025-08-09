@@ -1,4 +1,4 @@
-<img src="/images/logo_imarhc.jpg" alt="Imarch Logo" width="350" />
+<img src="/images/logo_imarhc.jpg" alt="Imarch Logo" width="400" />
 
 
 # 🏰 IMARCH  
