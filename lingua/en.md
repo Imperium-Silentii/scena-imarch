@@ -1,73 +1,94 @@
-<img src="/images/logo_imarhc.jpg" alt="Imarch Logo" width="400" />
+<img src="https://github.com/Imperium-Silentii/acta/blob/main/assets/logo_imarhc.jpg?raw=true" alt="Imarchia Logo" align="left" width="400">
 
+<br>
 
 # 🏰 IMARCH  
-**Empire of Truth and Silence**  
-A ludic form of intellectual-scenario system for neuroplastic coordination among participants, with a synergistic effect on personal efficiency through immersion in the Game.
+**Empire of Silent Truth**  
 
----
-
-## 📜 Official Acts of Imarchia  
-All formal documents and dispositions issued within the institutional scope of IMARCH.
-
-🔗 [Access the Acts](https://acta.imarch.sbs/acts)
-
-
----
-
-## 🧠 Academia  
-Scene for scientific publication and formological discourse.
-
----
-
-## 🗂 Archivum Custodiae  
-An open scene for the recording of formological affiliation, participation, status, and the trace of each Custos within the architecture of Custodia.
-
----
-
-## 📘 Codex Formologia  
-The *Codex Formologia* is a foundational compilation of principles, rituals, and terminological links that structure modes of interaction, civic participation, and ontological trace within the space of Imarchia.  
-It connects philosophical reflection on bodily culture with operational schemes of *custodia*, semantic trace, and verified roles—forming a living map of Universal Formology.
+A game system where intellectual scenarios become instruments of neuroplastic coordination and personal mastery.
 
 ---
 
 ## 🎯 Objectives  
-Levels aren't upgraded here—*Form is forged*.  
-Not for fun. Not “just for laughs.”  
-A formological cross-hall of ethical-aesthetic thought and action.
 
----
+No leveling up here—*here, Form is forged*.  
 
-## 🔍 Format  
-- **Intellectual link** — each scene of action demands presence and leaves a trace  
-- **Neuroplastic challenge** — tasks model new contexts of bodily choice, ethical entry, and positional alignment  
-- **Philosophical protocol of Custodia** — every participant becomes a Custos.  
-The Game is Custos, you are Form.
+Not for amusement. Not “just for fun.”  
+
+This is a formological crossroads of ethical-aesthetic Thought and Action.
 
 ---
 
 ## 🎓 Who is it for?  
-Student, candidate, doctoral researcher, doctor, artist — even a janitor, if they feel the Transition — they’re in the Game.
+
+Student, candidate, researcher, doctor, artist—even a janitor, it doesn’t matter.  
+
+Feel the Transition? You’re in the Game.
+
+---
+
+# 📜 Acts of Imarchia  
+## [Enter the Scene →](https://acta.imarch.sbs/acts)
+
+This section contains Charters, Statutes, Codices, and Protocols ratified by the Formological Office of Practice. Documents are versioned and translated.
+
+---
+
+# 📜 Project Archive  
+## Enter the Scene →
+
+A space that records each Custodian’s participation: their status, contribution, and path. The archive preserves traces affirming their place in the shared architecture of the Project.
+
+---
+
+# 📜 Academy  
+## Enter the Scene →
+
+The scene of scholarly publications and formological discourse.
+
+---
+
+# 📜 Project Partners  
+## Enter the Scene →
+
+A scene for partner initiatives aligned with the philosophy and practice of Form.
 
 ---
 
 ## 🚪 Debilitatus Exitus  
-A closed portal; here functions the *Custodia Ratio*.  
-Custodia is never entered accidentally — it unfolds as a scene, is perceived as Form, and is inherited as *Custos*.
+
+The Principle of Form Preservation is in effect.
+
+No one enters Imarchia by accident. It opens as a distinct scene, perceived as Form, and inherited through the status of Custodian.
+
+## 🔍 Format
+
+- **Intellectual Coherence**
+
+  Every scene of action demands presence and leaves a trace  
+
+- **Neuroplastic Challenge**
+
+  Tasks simulate new contexts of bodily choice, ethical entry, and positional coordination
+
+- **Philosophical Protocol of Memory-of-Memory**
+
+Each participant becomes a Custodian.  
+
+The Game is Memory. You are Form.
 
 ---
 
-## ✨ Wow Effect  
-A game where the grand prize is citizenship of Imarch.  
-Where entry is a bodily act of alignment.  
-And participant status is the link between personal perception and the Formological Algorithm.
+## ✨ The Effect of Form  
+
+A game whose entry becomes a bodily act of harmonization, echoing into real life.
+
+Participant status reflects the link between personal perception and the Universal Formological Algorithm.
 
 ---
 
-## 🌐 LAT — Language Transition  
-> The default language is Latin.  
-> Transition to English may be initiated via *scena:transitus
+## 🌐 Latin Version  
 
-<a href="https://imarch.sbs/" class="lang-switch">Latin version</a>
+[Enter the Portal →](https://imarch.sbs/)
 
-
+The primary scene of Imarchia, rendered in Latin. Includes the welcome message, trace structure, transitions, and key Custodia pages. All elements maintain semantic parity across languages.
