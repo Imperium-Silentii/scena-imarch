@@ -1,74 +1,103 @@
-<img src="https://github.com/Imperium-Silentii/acta/blob/main/assets/logo_imarhc.jpg?raw=true" alt="Логотип Имархии" align="left" width="400">
+<img src="https://github.com/Imperium-Silentii/acta/blob/main/assets/logo_imarhc.jpg?raw=true" alt="Insigne Imarchiae" align="left" width="400">
 
 <br>
 
 # 🏰 IMARCH  
 **Imperium Veritatis Silentii**  
-Forma Ludica systematis intellectualis-scenarii pro neuroplastico consensu inter participantes, cum effectu synergico ad augendam efficacitatem personalem per ingressum in Ludum.
 
----
-
-## 📜 Acta Documenta Officialia
-
-Omnes actus et dispositiones intra ambitum IMARCH latae.
-
-🔗 [Ad Acta accedere](https://acta.imarch.sbs/)
-
----
-
-## 🧠 Academia  
-Scena publicationis scientificae et disputationis formologicae.
-
----
-
-## 🗂 Archivum Custodiae  
-Scena aperta ad fixationem pertinacitatis formologicae, participatio, status et vestigium cuiusque Custodis in architectura Custodia.
- 
-🔗 [Ad Archivum accedere](https://archivum.imarch.sbs/)
-
----
-
-## 📘 Codex Formologia  
-Codex Formologia est fundamentalis compilatio principiorum, rituum, nexuum terminologicorum, quae structuram interactionis, participationis civicae, ac vestigii ontologici intra spatium Imarchiae constituunt. Philosophicam corporis culturam cum schematibus operationalibus custodiae, vestigii semantici, et partium verificatarum conjungit, formando vivam tabulam Formologiae Universalis.
+Systema ludicum ubi rationes intellectuales fiunt instrumenta coordinationis neuroplasticae et efficaciae personalis.
 
 ---
 
 ## 🎯 Propositum  
-Hic non augetur "level", sed Formae profunditas. Non ad iocum. Non "ad rideundum tantum".  
-Transversus hall formologicus cogitationis et actus ethico-aesthetici.
+
+Nemo hic gradus ascendit—*hic Forma cuditur*.  
+
+Non ob iocum. Non “tantum ob voluptatem.”  
+
+Hic est compitum formologicum inter Cogitationem et Actionem ethico-aestheticam.
 
 ---
 
-## 🔍 Forma  
-- **Nexus intellectualis** — Quaelibet scena actionis exiget praesentiam et relinquit vestigium  
-- **Provocatio neuroplastica** — Mandata novos contextus corporis electionis, ingressus ethici, consensūs positionum modelant  
-- **Protocolus philosophicus Custodiae** — Quisque particeps fit Custos. Lusus est Custos, tu es Forma.
+## 🎓 Cui destinatur?  
+
+Studens, candidatus, investigator, doctor, artifex—etiam mundator, non refert.  
+
+Transitio sentitur? In Ludo es.
 
 ---
 
-## 🎓 Cui destinatur  
-Studens, candidatus, doctorandus, doctor, artifex — immo etiam mundator, si Transitio sentitur — is ludum ingreditur.
+# 📜 Acta Imarchiae  
+## [Scenam Ingredi →](https://acta.imarch.sbs/acts)
+
+Haec pars continet Chartas, Statuta, Codices et Protocola a Officio Formologico Practicae ratificata. Documenta versionibus et translationibus instructa sunt.
+
+---
+
+# 📜 Archivum Projecti  
+## [Scenam Ingredi →](https://archivum.imarch.sbs/)
+
+Spatium quod participationem cuiusque Custodis refert: statum, contributionem, iter. Archivum vestigia servat quae structuram communem confirmant.
+
+---
+
+# 📜 Academia  
+## Scenam Ingredi →
+
+Scena publicationum scientificarum et disputationis formologicae.
+
+---
+
+# 📜 Socii Projecti  
+## Scenam Ingredi →
+
+Scena pro inceptis sociorum ad philosophiam et praxim Formae spectantibus.
 
 ---
 
 ## 🚪 Debilitatus Exitus  
-Porta clausa, hic viget Ratio Custodiae.  
-In Custodiam non fortuito ingrediuntur — scena expanditur, Forma cernitur, ut Custos hereditarie recipitur.
+
+Principium Conservationis Formae hic valet.
+
+Imarchiam nemo casu ingreditur. Aperitur ut scena distincta, ut Forma percipitur, et per statum Custodis hereditatur.
+
+## 🔍 Formatum
+
+- **Cohaerentia Intellectualis**
+
+  Quaelibet scena actionis praesentiam poscit et vestigium relinquit  
+
+- **Provocatio Neuroplastica**
+
+  Munera novos contextus electionis corporalis, ingressus ethici et coordinationis positionalis simulant
+
+- **Protocolum Philosophicum Memoriae Memoriae**
+
+Quisque particeps Custos fit.  
+
+Ludus est Memoria. Tu es Forma.
 
 ---
 
-## ✨ Effectus mirabilis  
-Lusus in quo praemium principale est forma civitatis Imarchae.  
-Ingressus est actus corporis consensu.  
-Status participantis est nexus inter perceptionem personalem et Algorithmi Formologici structuram.
+## ✨ Effectus Formae  
+
+Ludus cuius ingressus fit actus corporalis harmonizationis, qui in vitam realem resonat.
+
+Status participantis nexum inter perceptionem personalem et Algorithmum Formologicum Universale ostendit.
 
 ---
 
-## 🌐 EN — Transitus ad Anglicam  
-> This portal operates by default in Latin.  
-> Transition to English may be initiated per *scena:transitus-EN* or traced via *custodia:EN-vestigium*.  
-> All structural elements retain semantic alignment.
-> [English Language Scene](https://imarch.sbs/lingua/en)
+## 🌐 Versio Anglica  
+
+[Enter the Portal →](https://imarch.sbs/)
+
+The primary scene of Imarchia, rendered in English. Includes the welcome message, trace structure, transitions, and key Custodia pages. All elements maintain semantic parity across languages.
+
+## 🌐 Русская версия
+
+[Открыть портал →](https://imarch.sbs/lingua/ru)
+
+Основная сцена Имархии, оформленная на русском языке. Включает приветственное сообщение, структуру следа, переходы, и ключевые страницы Custodia. Все элементы сохраняют семантическую согласованность между языками.
 
 > ---
 
