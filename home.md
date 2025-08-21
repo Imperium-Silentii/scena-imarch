@@ -1,3 +1,6 @@
+<img src="https://github.com/Imperium-Silentii/acta/blob/main/assets/logo_imarhc.jpg?raw=true" alt="Логотип Имархии" align="left" width="400">
+
+<br>
 
 # 🏰 IMARCH  
 **Empire of Truth and Silence**  
