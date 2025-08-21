@@ -1,4 +1,6 @@
-<img src="/images/logo_imarhc.jpg" alt="Imarch Logo" width="400" />
+<img src="https://github.com/Imperium-Silentii/acta/blob/main/assets/logo_imarhc.jpg?raw=true" alt="Логотип Имархии" align="left" width="400">
+
+<br>
 
 # 🏰 IMARCH  
 **Imperium Veritatis Silentii**  
