@@ -8,8 +8,10 @@ A ludic form of intellectual-scenario system for neuroplastic coordination among
 
 ---
 
-## 📜 Acta  
-All acts and provisions adopted within the framework of Imarch.
+## 📜 Acts of Imarchia
+[Open the scene →](https://acta.imarch.sbs/acts)
+
+The official section containing Charters, Statutes, Codes, and structural protocols ratified by the Formological Office of Practice. All documents are available in `.md` format, accompanied by publication status, version control, and translations.ch.
 
 ---
 
@@ -20,12 +22,6 @@ Scene for scientific publication and formological discourse.
 
 ## 🗂 Archivum Custodiae  
 An open scene for the recording of formological affiliation, participation, status, and the trace of each Custos within the architecture of Custodia.
-
----
-
-## 📘 Codex Formologia  
-The *Codex Formologia* is a foundational compilation of principles, rituals, and terminological links that structure modes of interaction, civic participation, and ontological trace within the space of Imarchia.  
-It connects philosophical reflection on bodily culture with operational schemes of *custodia*, semantic trace, and verified roles—forming a living map of Universal Formology.
 
 ---
 
