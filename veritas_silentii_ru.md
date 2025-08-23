@@ -20,7 +20,6 @@
     и подготовки к выполнению миссии <strong>“АнтиПандора”</strong></p>
 
     <h3>🧭 Ваши действия</h3>
-    <p>следуйте инструкциям. ошибки недопустимы. время ограничено.</p>
 
     <p><a href="https://acta.imarch.sbs/acts"
           style="display: inline-block; padding: 10px 20px; background-color: #222; color: #00ffff; text-decoration: none; border-radius: 6px; font-weight: bold;">
