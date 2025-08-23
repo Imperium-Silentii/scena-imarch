@@ -1,7 +1,3 @@
-<img src="https://github.com/Imperium-Silentii/scena-imarch/blob/main/images/giber2.gif?raw=true" alt="Монитор пробуждения" align="left" width="400" style="margin-right: 20px; margin-bottom: 10px;" />
-
-<p>
-  
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <img src="https://github.com/Imperium-Silentii/scena-imarch/blob/main/images/giber2.gif?raw=true"
        alt="Монитор пробуждения"
