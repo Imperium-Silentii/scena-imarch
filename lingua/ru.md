@@ -113,3 +113,21 @@ Scaena principalis Imarchiae, in lingua Latina disposita. Continet nuntium salut
 
 The main scene of Imarchia, presented in English. Includes the welcome message, trace structure, transitions, and key Custodia pages. All elements maintain semantic consistency across languages.
 
+<a href="https://wa.me/380954987768?text=Хочу%20в%20Imarchia" target="_blank">
+  <img src="/assets/whatsapp-icon.png" alt="WhatsApp" style="width:50px;">
+</a>
+<style>
+.whatsapp-float {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 100;
+}
+</style>
+
+<div class="whatsapp-float">
+  <a href="https://wa.me/380XXXXXXXXX?text=Хочу%20в%20Imarchia" target="_blank">
+    <img src="/assets/whatsapp-icon.png" alt="WhatsApp" style="width:60px;">
+  </a>
+</div>
+
