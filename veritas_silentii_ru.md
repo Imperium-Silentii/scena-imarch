@@ -1,7 +1,7 @@
 <img src="https://github.com/Imperium-Silentii/scena-imarch/blob/main/images/giber2.gif?raw=true" alt="Монитор пробуждения" align="left" width="400" style="margin-right: 20px; margin-bottom: 10px;" />
 
-<p>
-
+<p><div>
+  
   ---
 ## ⚠️ ВНИМАНИЕ: Система восстановления активирована
 
