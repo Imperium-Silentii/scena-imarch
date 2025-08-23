@@ -5,9 +5,10 @@ permalink: /revival/ru
 lang: ru
 ---
 
-<img src="https://github.com/Imperium-Silentii/scena-imarch/blob/main/images/%D0%9F%D1%80%D0%BE%D0%B1%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B51%20(1).png?raw=true"
+<img src="https://github.com/Imperium-Silentii/scena-imarch/blob/main/images/probujdenie.png?raw=true"
      alt="Пробуждение"
      style="width:400px; float:left; margin-right:20px; margin-bottom:10px;">
+
 
 
 ## 🧪 Стартовый модуль
