@@ -1,5 +1,4 @@
-
-
+![Монитор пробуждения](https://github.com/Imperium-Silentii/scena-imarch/blob/main/images/giber2.gif?raw=true)
 
 ---
 ## ⚠️ ВНИМАНИЕ: Система восстановления активирована
