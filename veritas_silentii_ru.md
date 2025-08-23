@@ -41,7 +41,7 @@
     <h3>🧭 Ваши действия</h3>
     <p>Следуйте инструкциям. Ошибки недопустимы. Время ограничено.</p>
 
-    <p><a href="https://acta.imarch.sbs/acts"
+    <p><a href="https://imarch.sbs//revival/ru"
           style="display: inline-block; padding: 10px 20px; background-color: #222; color: #00ffff; text-decoration: none; border-radius: 6px; font-weight: bold;">
       🚀 НАЧАТЬ ВОССТАНОВЛЕНИЕ
     </a></p>
