@@ -63,8 +63,14 @@
 
 ---
 
-# Компоненты
+<a href="https://imarch.sbs/veritas_silentii_ru" style="display: inline-block; padding: 10px 20px; background-color: #222; color: #00ffff; text-decoration: none; border-radius: 6px; font-weight: bold;">
+🎮 Войти в Игру
+</a>
 
+---
+
+# Компоненты
+Технические разделы игрового поля
 ---
 
 # 📜 Акты 
@@ -101,4 +107,9 @@
 
 Scaena principalis Imarchiae, in lingua Latina disposita. Continet nuntium salutatorium, structuram vestigii, transitūs, et paginas claves Custodiae. Omnia elementa servata sunt cum concordia semantica inter linguas.
 
+## 🌐 English Version
+
+[Open the Portal →](https://imarch.sbs/lingua/en)
+
+The main scene of Imarchia, presented in English. Includes the welcome message, trace structure, transitions, and key Custodia pages. All elements maintain semantic consistency across languages.
 
