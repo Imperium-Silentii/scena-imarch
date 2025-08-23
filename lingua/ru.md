@@ -119,6 +119,8 @@ The main scene of Imarchia, presented in English. Includes the welcome message, 
   bottom: 20px;
   right: 20px;
   z-index: 100;
+  transform: scale(2); /* Увеличение размера в 2 раза */
+  transform-origin: bottom right; /* Масштабирование из угла */
 }
 </style>
 
@@ -128,5 +130,6 @@ The main scene of Imarchia, presented in English. Includes the welcome message, 
     💬
   </a>
 </div>
+
 
 
