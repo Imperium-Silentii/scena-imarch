@@ -142,16 +142,8 @@
 
 [🚀 НАЧАТЬ ВОССТАНОВЛЕНИЕ](https://imarch.sbs/revival/ru)
 
-[💬 Связаться через WhatsApp](https://wa.me/380954987768?text=Хочу%20в%20Imarchia<style>
-.whatsapp-float {
-  position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 100;
-  transform: scale(2); /* Увеличение размера */
-  transform-origin: bottom right;
-}
-</style>
+[💬 Связаться через WhatsApp](https://wa.me/380954987768?text=Хочу%20в%20Imarchia)
+
 
 <div class="whatsapp-float">
   <a href="https://wa.me/380954987768?text=Хочу%20в%20Imarchia" target="_blank"
