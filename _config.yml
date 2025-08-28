@@ -1,9 +1,8 @@
 title: Scena Imarch
 description: Публикация сцепки через GitHub Pages
-repository: Imperium-Silentii/scena-imarch
 theme: jekyll-theme-primer
 plugins:
   - jekyll-seo-tag
-  - jekyll-github-metadata
+
 
 
