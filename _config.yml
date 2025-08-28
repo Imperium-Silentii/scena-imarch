@@ -1,4 +1,8 @@
-title: Имархия
+title: Scena Imarch
 description: Публикация сцепки через GitHub Pages
-repository: scena-imarch
+repository: Unghart-sn/scena-imarch
 theme: jekyll-theme-primer
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+
