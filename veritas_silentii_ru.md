@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/Imperium-Silentii/scena-imarch/blob/main/images/Gibernation.png?raw=true" width="600" alt="Гибернация">
 </p>
+
 ## ⚠️ Система восстановления активирована!
 
 **Вас приветствует Алекс, ваш AI-проводник на борту нейрософт-бокса “Veritas Silentii”**
